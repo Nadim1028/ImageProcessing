@@ -157,7 +157,7 @@ public class SkinMainClass
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println(testImg);
+        //System.out.println(testImg);
         int newHeight=testImg.getHeight();
         int newWidth=testImg.getWidth();
 
